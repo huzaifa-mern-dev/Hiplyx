@@ -7,9 +7,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## <a name="introduction">🤖 Introduction</a>
-
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React Native
